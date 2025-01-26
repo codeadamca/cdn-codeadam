@@ -43,5 +43,5 @@ https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png
 ---
 
 <a href="https://codeadam.ca">
-<img src="https://cdn.codeadam.ca/images@1.0.0/codeada-logo-coloured-horizontal.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
 </a>
