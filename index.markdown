@@ -23,7 +23,7 @@ Include JavaScript files by placing a `<script>` tag directly before your closin
 CSS include files when bulding CodeAdam tools. These CSS files overwrite W3.CSS colours with CodeAdam brand colours and prvide some additional CSS classes.
 
 ```
-https://cdn.brickmmo.com/tools@1.0.0/w3.css
+https://cdn.codeadam.ca/tools@1.0.0/w3.css
 ```
 
 ## Images
@@ -38,10 +38,10 @@ https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png
 ```
 
 > Available Versions: 1.0.0  
-> Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
+> Documentation: [branding.codeadam.ca](https://branding.codeadam.ca)
 
 ---
 
-<a href="https://brickmmo.com">
-<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeada-logo-coloured-horizontal.png" width="100">
 </a>
