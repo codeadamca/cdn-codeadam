@@ -27,7 +27,7 @@ https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
 https://cdn.brickmmo.com/exceptions@1.0.0/bootstrap.css
 https://cdn.brickmmo.com/exceptions@1.0.0/fontawesome.css
 ```
-  
+
 ## Images
 
 Common branding images from [CodeAdam Branding Guidelines](https://branding.codeadam.ca).
@@ -41,7 +41,7 @@ https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png
 
 > Available Versions: 1.0.0  
 > Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
-  
+
 ---
 
 <a href="https://brickmmo.com">
