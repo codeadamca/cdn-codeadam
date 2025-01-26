@@ -1,0 +1,55 @@
+:root {
+  --ca-orange: #eb741d;
+  --ca-red: #eb062c;
+  --ca-grey: #ededed;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Lora, serif;
+}
+
+h1 {
+  font-family: "PT Sans Narrow", sans-serif;
+  color: var(--ca-red);
+}
+
+h2,
+h3 {
+  color: var(--ca-orange);
+  font-family: Lora, serif;
+}
+h4,
+h5,
+h6 {
+  font-family: Lora, serif;
+}
+
+input.w3-input,
+textarea.w3-input {
+  background-color: #111;
+  color: #fff;
+  border: 1px solid var(--ca-grey);
+}
+
+.ca-red {
+  background-color: var(--ca-red);
+}
+.ca-text-red {
+  color: var(--ca-red);
+}
+.ca-orange {
+  background-color: var(--ca-orange);
+}
+.ca-text-orange {
+  color: var(--ca-orange);
+}
+.ca-grey,
+.ca-gray {
+  background-color: var(--ca-grey);
+}
+.ca-text-grey,
+.ca-text-gray {
+  color: var(--ca-grey);
+}
