@@ -17,6 +17,7 @@ This project uses vanilla [Markdown](https://www.markdownguide.org/).
 * [CodeAdam](https://codeadam.ca)
 * [CodeAdam CDN](https://cdn.codeadam.ca/)
 
-<a href="https://codeadam.ca" style="margin-top: 120px;">
-<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
+<br>
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200" style="margin-top: 120px;">
 </a>
