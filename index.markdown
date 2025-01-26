@@ -7,13 +7,13 @@
 Include CSS files by placing a `<link>` tag in the `<head>` section of your HTML document:
 
 ```
-<link rel="stylesheet" href="https://cdn.codeadam.ca/library@1.0.0/librry.css">
+<link rel="stylesheet" href="https://cdn.codeadam.ca/library@1.0.0/library.css">
 ```
 
 Include JavaScript files by placing a `<script>` tag directly before your closing `</body>` tag in your HTML document:
 
 ```
-<script src="https://cdn.codeadam.ca/library@1.0.0/librry.js"></script>
+<script src="https://cdn.codeadam.ca/library@1.0.0/library.js"></script>
 ```
 
 ## Quickstart
@@ -23,9 +23,7 @@ Include JavaScript files by placing a `<script>` tag directly before your closin
 CSS include files when bulding CodeAdam tools. These CSS files overwrite W3.CSS colours with CodeAdam brand colours and prvide some additional CSS classes.
 
 ```
-https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
-https://cdn.brickmmo.com/exceptions@1.0.0/bootstrap.css
-https://cdn.brickmmo.com/exceptions@1.0.0/fontawesome.css
+https://cdn.brickmmo.com/tools@1.0.0/w3.css
 ```
   
 ## Images
