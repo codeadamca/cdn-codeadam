@@ -53,3 +53,10 @@ textarea.w3-input {
 .ca-text-gray {
   color: var(--ca-grey);
 }
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: var(--ca-red);
+}
