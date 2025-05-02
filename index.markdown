@@ -40,6 +40,14 @@ https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png
 > Available Versions: 1.0.0  
 > Documentation: [branding.codeadam.ca](https://branding.codeadam.ca)
 
+### Components  
+
+A list and replacement script for commonly used components for BrickMMO and CodeAdam Markdown assets.
+
+```
+https://cdn.codeadam.ca/components@1.0.0/components.js
+```
+
 ---
 
 <a href="https://codeadam.ca">
