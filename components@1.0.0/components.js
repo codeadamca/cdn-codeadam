@@ -13,7 +13,7 @@ for (const [key, html] of Object.entries(components)) {
 
 }
 
-const replace = document.getElementsByClassName("components")0;
+const replace = document.getElementsByClassName("components");
 
 for( let i = 0; i < replace.length; i ++ )
 {
