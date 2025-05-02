@@ -4,7 +4,7 @@ const components = {
         '<hr>' +
         '<h2>BrickMMO Resources</h2>' + 
         '<ul>' +
-        '<li><a href="https://branding.brickmmo.com/">BrickMMO Branding Guidelines</a></li>',
+        '<li><a href="https://branding.brickmmo.com/">BrickMMO Branding Guidelines</a></li>' +
         '<li><a href="https://cdn.brickmmo.com/">CDN</a></li>' +
         '<li><a href="https://github.com/BrickMMO/tasks">Tasks</a></li>' +
         '<li><a href="https://ldr.brickmmo.com/">LDR Directory</a></li>' +
