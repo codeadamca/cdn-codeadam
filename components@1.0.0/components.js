@@ -6,16 +6,17 @@ const components = {
         '</div>',
 };
 
+/*
 for (const [key, html] of Object.entries(components)) {
-
     console.log(`Key: ${key}`);
     console.log(`Component: ${html}`);
-
 }
+*/
 
 const replace = document.getElementsByClassName("components");
 
 for( let i = 0; i < replace.length; i ++ )
 {
-    console.log(replace[i].getAttribute("id"));
+    const id = replace[i].getAttribute("id");
+    replace[i].innerHTML = components[id];
 }
