@@ -10,6 +10,7 @@ const components = {
         '<li><a href="https://ldr.brickmmo.com/">LDR Directory</a></li>' +
         '</ul>' + 
         '<h2>CodeAdam Resources</h2>' +
+        '<ul>' + 
         '<li><a href="https://activities.codeadam.ca">Team Building Activities</a></li>' +
         '<li><a href="https://branding.codeadam.ca/">CodeAdam Branding Guidelines</a></li>' +
         '<li><a href="https://cdn.codeadam.ca/">CDN</a></li>' +
