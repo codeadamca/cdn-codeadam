@@ -1,9 +1,24 @@
 
 const components = {
     'resources':
-        '<div>' +
-        'LIST OF RESOURCES' + 
-        '</div>',
+        '<hr>' +
+        '<h2>BrickMMO Resources</h2>' + 
+        '<ul>' +
+        '<li><a href="https://branding.brickmmo.com/">BrickMMO Branding Guidelines</a></li>',
+        '<li><a href="https://cdn.brickmmo.com/">CDN</a></li>' +
+        '<li><a href="https://github.com/BrickMMO/tasks">Tasks</a></li>' +
+        '<li><a href="https://ldr.brickmmo.com/">LDR Directory</a></li>' +
+        '<h2>CodeAdam Resources</h2>' +
+        '<li><a href="https://activities.codeadam.ca">Team Building Activities</a></li>' +
+        '<li><a href="https://branding.codeadam.ca/">CodeAdam Branding Guidelines</a></li>' +
+        '<li><a href="https://cdn.codeadam.ca/">CDN</a></li>' +
+        '<li><a href="https://challenges.codeadam.ca/">Coding Challenges</a></li>' +
+        '<li><a href="https://eplus.codeadam.ca/">ePlus</a></li>' +
+        '<li><a href="https://pseudocode.codeadam.ca/">Pseudocode Guidelines</a></li>' +
+        '<li><a href="https://questions.codeadam.ca/">Interview Questions</a></li>' +
+        '<li><a href="https://readme.codeadam.ca/">_readme</a></li>' +
+        '<li><a href="https://tidy.codeadam.ca/">Tidy</a></li>' +
+        '</ul>'
 };
 
 /*
