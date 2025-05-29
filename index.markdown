@@ -48,6 +48,9 @@ A list and replacement script for commonly used components for BrickMMO and Code
 https://cdn.codeadam.ca/components@1.0.0/components.js
 ```
 
+<div class="components" id="resources">--resources--</div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---
 
 <a href="https://codeadam.ca">
