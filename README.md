@@ -6,9 +6,11 @@ This repo is used as the CodeAdam Content Delivery Network (CDN) for CodeAdam re
 
 ## Project Stack
 
-This project uses vanilla [Markdown](https://www.markdownguide.org/).
+This project uses only basic HTML in [Markdown](https://www.markdownguide.org/) files. This allows us to use basic HTML for our content and still include the GitHub default styling.
 
-<img src="https://console.codeadam.ca/api/image/markdown" width="60">
+This repo is hosted using [GitHub Pages](https://pages.github.com/).
+
+<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/markdown" width="60">
 
 ---
 
