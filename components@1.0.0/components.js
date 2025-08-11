@@ -6,7 +6,7 @@ const components = {
         '<ul>' +
         '<li><a href="https://branding.brickmmo.com/">BrickMMO Branding Guidelines</a></li>' +
         '<li><a href="https://cdn.brickmmo.com/">CDN</a></li>' +
-        '<li><a href="https://github.com/BrickMMO/tasks">Tasks</a></li>' +
+        '<li><a href="https://tasks.brickmmo.com/">Tasks</a></li>' +
         '<li><a href="https://ldr.brickmmo.com/">LDR Directory</a></li>' +
         '</ul>' + 
         '<h2>CodeAdam Resources</h2>' +
