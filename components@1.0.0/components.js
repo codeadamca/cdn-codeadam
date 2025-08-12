@@ -4,15 +4,15 @@ const components = {
         '<hr>' +
         '<h2>BrickMMO Resources</h2>' + 
         '<ul>' +
-        '<li><a href="https://assets.brickmmo.com/">BrickMMO Assets</a></li>' +
-        '<li><a href="https://branding.brickmmo.com/">BrickMMO Branding Guidelines</a></li>' +
+        '<li><a href="https://assets.brickmmo.com/">Assets</a></li>' +
+        '<li><a href="https://branding.brickmmo.com/">Branding Guidelines</a></li>' +
         '<li><a href="https://cdn.brickmmo.com/">CDN</a></li>' +
         '<li><a href="https://ldr.brickmmo.com/">LDR Directory</a></li>' +
         '<li><a href="https://tasks.brickmmo.com/">Tasks</a></li>' +
         '</ul>' + 
         '<h2>CodeAdam Resources</h2>' +
         '<ul>' + 
-        '<li><a href="https://branding.codeadam.ca/">CodeAdam Branding Guidelines</a></li>' +
+        '<li><a href="https://branding.codeadam.ca/">Branding Guidelines</a></li>' +
         '<li><a href="https://cdn.codeadam.ca/">CDN</a></li>' +
         '<li><a href="https://challenges.codeadam.ca/">Coding Challenges</a></li>' +
         '<li><a href="https://eplus.codeadam.ca/">ePlus</a></li>' +
